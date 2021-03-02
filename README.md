@@ -1,5 +1,5 @@
 # Space Cloner
-PowerShell script to help you clone a space using the Octopus Deploy Restful API.
+PowerSlkjhsdfgælkdsjhfælkjhhell script to help you clone a space using the Octopus Deploy Restful API.
 
 # This cloning process is provided as is
 This script was developed internally for the Octopus Advisory Team at Octopus Deploy to solve specific use cases we encounter each day.  We are sharing this script to help other users of Octopus Deploy.  To cover as many use cases as we run into as possible, the script has a set of generic comparisons in place.  It matches by name, order is tracked via a simple index, etc.  We work in Octopus all day every day.  As such, we are okay with a script that accomplishes 80-90% of a clone, and then spending a bit of time doing some manual work. 
